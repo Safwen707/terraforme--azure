@@ -82,9 +82,4 @@ Si vous voulez, je peux :
 - préparer un script d'automatisation CI (GitHub Actions) pour déployer automatiquement, 
 - publier le repo avec un README en anglais aussi.
 
-Contact
--------
-Si vous voulez le repo public ou une walkthrough pas‑à‑pas, dites‑moi et je publie les fichiers et instructions détaillées.
-
-# terraforme-azure
 # terraforme-azure
